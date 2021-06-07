@@ -135,5 +135,5 @@ function drawTriangle(aLength, bLength, cLength, canvas) {
 
 }
 
-// Remove from comment to run Unit tests. 
+// Uncomment to run Unit tests. 
 //module.exports = { getTriangleType };
